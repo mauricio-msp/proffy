@@ -20,9 +20,15 @@
 
 ## :bookmark: Sobre
 
-O **Proffy** é uma aplicação Web e Mobile feita para auxiliar na conexão entre os alunos e os professores. Logo, esta aplicação oferece aos professores a possibilidade de registrar aulas, podendo adicionar informações como a disciplina, o custo e horário e aos alunos a possibilidade de buscar pelas aulas cadastradas.
+O **Proffy** é uma plataforma de estudos online para conectar alunos e professores de forma rápida, fácil e prática. No qual os professores tem a possibilidade de registrar aulas, podendo adicionar informações como a disciplina, o custo e horário e aos alunos a possibilidade de buscar pelas aulas cadastradas e entrar em contato com os "proffys" por WhatsApp.
   
 Essa aplicação foi realizada durante a **Next Level Week #2**, projeto da [Rocketseat](https://rocketseat.com.br/).
+
+## :pushpin: Etapas
+
+- #### server :white_check_mark:
+- #### web :white_check_mark:
+- #### mobile :x:
 
 ## :rocket: Tecnologias
 
@@ -47,27 +53,27 @@ Essa aplicação foi realizada durante a **Next Level Week #2**, projeto da [Roc
   $ git clone https://github.com/mauricio-msp/proffy.git
 ```
 
-2. Executando a Aplicação:
+2. Executando a Aplicação (Back-end):
 
 ```sh
-  # API
   $ cd server
   # Instalando as dependências do projeto.
   $ yarn # ou npm install
   # Configurando o banco de dados e criando as tabelas.
   $ yarn knex:migrate # ou npm run knex:migrate
-
   # Inicie a API
   $ yarn start # ou npm start
+```
 
-  # Aplicação web
+3. Executando a Aplicação (Front-end):
+
+```sh
   $ cd web
   # Instalando as dependências do projeto.
   $ yarn # ou npm install
   # Inicie a aplicação web
   $ yarn start # ou npm start
 ```
-
 
 ## :memo: Licença
 
