@@ -33,7 +33,7 @@ Essa aplicação foi realizada durante a **Next Level Week #2**, projeto da [Roc
 -  [Typescript](https://www.typescriptlang.org/)
 -  [axios](https://github.com/axios/axios)
 
-## :boom: Como Executar
+## :star2: Como Executar
 
 - ### **Pré-requisitos**
 
