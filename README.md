@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-<img alt="Develop by" src="https://img.shields.io/badge/Develop%20by-Mauricio%20Porfirio-blue?style=flat">
+<img alt="Develop by" src="https://img.shields.io/badge/develop%20by-Mauricio%20Porfirio-blue?style=flat">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mauricio-msp/proffy?color=informational&style=flat">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mauricio-msp/proffy?color=important&style=flat">
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square">
@@ -22,13 +22,13 @@
 
 O **Proffy** é uma aplicação Web e Mobile feita para auxiliar na conexão entre os alunos e os professores. Logo, esta aplicação oferece aos professores a possibilidade de registrar aulas, podendo adicionar informações como a disciplina, o custo e horário e aos alunos a possibilidade de buscar pelas aulas cadastradas.
   
-Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Rocketseat](https://rocketseat.com.br/).
+Essa aplicação foi realizada durante a **Next Level Week #2**, projeto da [Rocketseat](https://rocketseat.com.br/).
 
 ## :rocket: Tecnologias
 
 -  [Node.js](https://nodejs.org/en/)
 -  [Express](https://expressjs.com/)
--  [KnexJS](http://knexjs.org/)
+-  [Knex.JS](http://knexjs.org/)
 -  [ReactJS](https://reactjs.org/)
 -  [Typescript](https://www.typescriptlang.org/)
 -  [axios](https://github.com/axios/axios)
