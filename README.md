@@ -36,6 +36,8 @@ Essa aplicação foi realizada durante a **Next Level Week #2**, projeto da [Roc
 -  [Express](https://expressjs.com/)
 -  [Knex.JS](http://knexjs.org/)
 -  [ReactJS](https://reactjs.org/)
+-  [React Native](https://reactnative.dev/)
+-  [Expo](https://expo.io/)
 -  [Typescript](https://www.typescriptlang.org/)
 -  [axios](https://github.com/axios/axios)
 
