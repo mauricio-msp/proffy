@@ -28,7 +28,7 @@ Essa aplicação foi realizada durante a **Next Level Week #2**, projeto da [Roc
 
 - #### server :white_check_mark:
 - #### web :white_check_mark:
-- #### mobile :x:
+- #### mobile :white_check_mark:
 
 ## :rocket: Tecnologias
 
@@ -75,6 +75,15 @@ Essa aplicação foi realizada durante a **Next Level Week #2**, projeto da [Roc
   $ yarn start # ou npm start
 ```
 
+4. Executando a Aplicação (Mobile):
+
+```sh
+  $ cd mobile
+  # Instalando as dependências do projeto.
+  $ yarn # ou npm install
+  # Inicie a aplicação mobile
+  $ yarn start # ou npm start
+```
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
